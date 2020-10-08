@@ -1,5 +1,5 @@
 # Space invader
-This is a our childhood favourite and all-time famous game made using just Pygame.
+This is a our childhood favourite and all-time famous game made using just Pygame. With added cool music effect and music in the back.
 
 ## How to play
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Pygame.
